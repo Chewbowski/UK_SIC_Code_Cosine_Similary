@@ -1,1 +1,0 @@
-# UK_SIC_Code_Cosine_Similary
